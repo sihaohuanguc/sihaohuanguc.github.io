@@ -1,7 +1,7 @@
 
-[Research](https://sihaohuanguc.github.io/research)
+* [Research](https://sihaohuanguc.github.io/research)
+* [Blog](https://sihaohuanguc.github.io/blog)
 
-<button name="button" onclick="https://www.google.com">Click me</button>
 
 # About
 My name is Sihao Huang, I'm currently a PhD candidate at University of Chicago. My thesis mentor is Prof.Tao Pan. My research focus is bioinformatics.
@@ -10,3 +10,4 @@ My name is Sihao Huang, I'm currently a PhD candidate at University of Chicago. 
 Email: sihaohuang1024@gmail.com
 
 # External links
+[Lab website](https://openwetware.org/wiki/Pan_Lab)
