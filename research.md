@@ -10,6 +10,6 @@ permalink: /research/
 * [Blog](https://sihaohuanguc.github.io/blog)
 
 # Research
-[NanoPsu](https://sihaohuanguc.github.io/Nanopore_psU/)
-
-# Under construction
+## Interferon inducible pseudouridine modification in human mRNA by nanopore profiling
+In this project, we developed a machine learning based method "NanoPsu" to identify pseudouridine (psU) modifications in human transcriptome from Nanopore sequencing data. We trained the model based on known psU sites in rRNA from multiple species. The method is applied to Interferon (IFN) treated samples and IFN induced genes are found to possess more psU. The open source Python package for psU prediction could be found [here](https://sihaohuanguc.github.io/Nanopore_psU/).
+## To be continued
