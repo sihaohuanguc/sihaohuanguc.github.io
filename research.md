@@ -9,6 +9,7 @@ permalink: /research/
 * [Publications](https://sihaohuanguc.github.io/publications)
 * [Blog](https://sihaohuanguc.github.io/blog)
 
+# Research
 [NanoPsu](https://sihaohuanguc.github.io/Nanopore_psU/)
 
 # Under construction

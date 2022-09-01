@@ -4,6 +4,7 @@
 * [Blog](https://sihaohuanguc.github.io/blog)
 
 # About
+![titlis](https://sihaohuanguc.github.io/docs/asset/images/Titlis.jpg)
 My name is Sihao Huang, I'm currently a PhD candidate at University of Chicago. My thesis mentor is Prof.Tao Pan. My research focus is bioinformatics. I mainly work on developing computational methods to identify base modifications on genome and transcriptome through Next-Generation Sequencing (NGS) and Nanopore Sequencing. I enjoy collaborating with researchers with different academic backgrounds like chemistry, cell biology, immunology, microbiology and CS.
 <br/>
 <br/>
@@ -11,9 +12,15 @@ I started my PhD program at University of Chicago in Sept 2018. This would be my
 
 # Contact
 Email: sihaohuang1024@gmail.com
+<br/>
 LinkedIn: [Sihao Huang](https://www.linkedin.com/in/sihao-huang-1aa545160/)
+<br/>
 Twitter: @SihaoHuang1024
+<br/>
 Facebook: Sihao Huang
 
 # External links
 [Lab website](https://openwetware.org/wiki/Pan_Lab)
+<br/>
+
+

@@ -13,7 +13,8 @@ permalink: /experiences/
 Jun - Aug 2022&emsp;Clinical Bioinformatics Internship at [Guardant Health](https://guardanthealth.com)
 
 # Presentations
-Apr 2022&emsp;Poster presentation at [2022 ASBMB Annual Meeting](https://www.asbmb.org/meetings-events/2022-annual-meeting) in Philadelphia, PA <br/>
+Apr 2022&emsp;Poster presentation at [2022 ASBMB Annual Meeting](https://www.asbmb.org/meetings-events/2022-annual-meeting) in Philadelphia, PA
+<br/>
 Oct 2021&emsp;Oral presentation at UChicago Molecular Biosciences Retreat
 
 # Teaching
