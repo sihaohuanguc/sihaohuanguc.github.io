@@ -7,10 +7,13 @@
 ![titlis](./docs/assets/images/Titlis.jpg)
 <br/>
 <br/>
-My name is Sihao Huang, I'm currently a PhD candidate at University of Chicago. My thesis mentor is Prof.Tao Pan. My research focus is **Bioinformatics**. I mainly work on developing computational methods to identify base modifications on genome and transcriptome through Next-Generation Sequencing (NGS) and Nanopore Sequencing. I enjoy collaborating with researchers with different academic backgrounds like chemistry, cell biology, immunology, microbiology and CS.
+My name is Sihao Huang, I'm currently a PhD candidate at University of Chicago. My thesis mentor is Prof.Tao Pan. My research focus is **Bioinformatics**. I mainly work on developing computational methods to identify base modifications on genome and transcriptome through Next-Generation Sequencing (NGS) and Nanopore Sequencing. Machine learning is involved in the models. I also write open sourse python packages to make the approaches availble to general users. I enjoy collaborating with researchers with different academic backgrounds like chemistry, cell biology, immunology, microbiology and CS.
 <br/>
 <br/>
-I started my PhD program at University of Chicago in Sept 2018. This would be my 5th year in Chicago. I got my B.S. degrees in Biology and Mathematics at Peking University in Beijing.
+I started my PhD program at University of Chicago in Sept 2018. This would be my 5th year in Chicago. I got my B.S. degrees in Biology and Mathematics at Peking University in Beijing in 2018.
+<br/>
+<br/>
+I like cycling along the shore of Lake Michigan. I like building [LEGO](https://www.lego.com/en-us) models. I like cooking.
 
 # Contact
 Email: sihaohuang1024@gmail.com
