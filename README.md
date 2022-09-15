@@ -13,7 +13,11 @@ My name is Sihao Huang, I'm currently a PhD candidate at University of Chicago. 
 I started my PhD program at University of Chicago in Sept 2018. This would be my 5th year in Chicago. I got my B.S. degrees in Biology and Mathematics at Peking University in Beijing in 2018.
 <br/>
 <br/>
-I like cycling along the shore of Lake Michigan. I like building [LEGO](https://www.lego.com/en-us) models. I like cooking.
+I like cycling along the shore of Lake Michigan. I like building [LEGO](https://www.lego.com/en-us) models. I like cooking. I like traveling. I've visited 12/50 states in US and hope to visit more in the future.
+
+# News
+1. I'm going to do a poster presentation at 2022 UChicago Molecular Biosciences Retreat on Oct 14-15!
+2. A new co-authored paper has been submitted afrer revision on Monday, Sep 12. Hope to see it online soon!
 
 # Contact
 Email: sihaohuang1024@gmail.com
@@ -27,5 +31,6 @@ Facebook: Sihao Huang
 # External links
 [Lab website](https://openwetware.org/wiki/Pan_Lab)
 <br/>
-
+[Program student page](https://bcmb.uchicago.edu/program/students?page=1)
+<br/>
 
