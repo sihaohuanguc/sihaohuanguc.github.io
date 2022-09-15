@@ -20,6 +20,8 @@ Sep 2015 - Jul 2018&emsp;B.S. in Applied Mathematics at Peking University
 Sep 2014 - Jul 2018&emsp;B.S. in Biology at Peking University
 
 # Presentations
+Oct 2022&emsp;Poster presentation at 2022 UChicago Molecular Biosciences Retreat
+<br/>
 Apr 2022&emsp;Poster presentation at [2022 ASBMB Annual Meeting](https://www.asbmb.org/meetings-events/2022-annual-meeting) in Philadelphia, PA
 <br/>
 Oct 2021&emsp;Oral presentation at 2021 UChicago Molecular Biosciences Retreat
@@ -28,5 +30,6 @@ Oct 2021&emsp;Oral presentation at 2021 UChicago Molecular Biosciences Retreat
 Jan - Mar 2022&emsp;TA of *Introduction to Data Science in Biochemistry and Biophysics* (R programming) course at UChicago
 
 # Grant
+To be revealed in the future.
 
 
