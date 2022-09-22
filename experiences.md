@@ -24,6 +24,8 @@ Oct 2022&emsp;Poster presentation at 2022 UChicago Molecular Biosciences Retreat
 <br/>
 Apr 2022&emsp;Poster presentation at [2022 ASBMB Annual Meeting](https://www.asbmb.org/meetings-events/2022-annual-meeting) in Philadelphia, PA
 <br/>
+Mar 2022&emsp;Poster presentation at 2022 UChicago Biological Sciences Division Grad Admission Poster Session
+<br/>
 Oct 2021&emsp;Oral presentation at 2021 UChicago Molecular Biosciences Retreat
 
 # Teaching
