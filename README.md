@@ -17,7 +17,7 @@ I like cycling along the shore of Lake Michigan. I like building [LEGO](https://
 
 # News
 1. I'm going to do a poster presentation at 2022 UChicago Molecular Biosciences Retreat on Oct 14-15!
-2. A new co-authored paper has been submitted afrer revision on Monday, Sep 12. Hope to see it online soon!
+2. A new co-authored paper has been accepted on Monday, Sep 26! Congrats to the first author, Chris! Hope to see it online soon!
 
 # Contact
 Email: sihaohuang1024@gmail.com
