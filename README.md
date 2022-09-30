@@ -5,11 +5,8 @@
 
 # About
 <!-- ![titlis](./docs/assets/images/Titlis.jpg) -->
-
-
 <img style="float: right;" src="./docs/assets/images/Titlis.jpg">
-<br/>
-<br/>
+
 My name is Sihao Huang. I'm currently a PhD candidate at University of Chicago. My thesis mentor is Prof. [Tao Pan](https://bcmb.uchicago.edu/program/faculty/tao-pan). My research focus is **Bioinformatics**. I mainly work on developing computational methods to identify base modifications on genome and transcriptome through Next-Generation Sequencing (NGS) and Nanopore Sequencing. Machine learning is involved in the models. I also write open sourse python packages to make the approaches availble to general users. I participate in projects of many biological directions with bioinformatics methods and tools, like immunology, microbiome, COVID19, cell biology, etc. I enjoy collaborating with researchers with different academic backgrounds like chemistry, cell biology, immunology, microbiology and CS.
 <br/>
 <br/>
