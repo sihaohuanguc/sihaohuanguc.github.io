@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Blog"
-permalink: /blog/
+title: "News"
+permalink: /news/
 ---
 
 * [Research](https://sihaohuanguc.github.io/research)
