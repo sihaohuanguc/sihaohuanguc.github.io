@@ -7,7 +7,7 @@ permalink: /experiences/
 * [Research](https://sihaohuanguc.github.io/research)
 * [Experiences](https://sihaohuanguc.github.io/experiences)
 * [Publications](https://sihaohuanguc.github.io/publications)
-* [Blog](https://sihaohuanguc.github.io/blog)
+* [News](https://sihaohuanguc.github.io/news)
 
 # Industry Employment
 Jun - Aug 2022&emsp;Clinical Bioinformatics Internship at [Guardant Health](https://guardanthealth.com)
@@ -34,7 +34,7 @@ Jan - Mar 2022&emsp;TA of *Introduction to Data Science in Biochemistry and Biop
 Sep 2017 - Jan 2018&emsp;TA of *Discussion of Biochemistry Literature* course at Peking University
 
 # Honors
-May 2018&emsp;Outstanding graduates of Peking University
+May 2018&emsp;Outstanding Graduate of Peking University
 
 # Grant
 To be revealed in the future.

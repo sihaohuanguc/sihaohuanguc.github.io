@@ -1,7 +1,7 @@
 * [Research](https://sihaohuanguc.github.io/research)
 * [Experiences](https://sihaohuanguc.github.io/experiences)
 * [Publications](https://sihaohuanguc.github.io/publications)
-* [Blog](https://sihaohuanguc.github.io/blog)
+* [News](https://sihaohuanguc.github.io/news)
 
 # About
 <!-- ![titlis](./docs/assets/images/Titlis.jpg) -->
@@ -16,8 +16,7 @@ I got my B.S. degrees in Biology and Mathematics at Peking University in Beijing
 I like cycling along the shore of Lake Michigan. I like building [LEGO](https://www.lego.com/en-us) models. I like cooking. I like traveling. I've visited 12/50 states in US and hope to visit more in the future.
 
 # News
-1. I'm going to do a poster presentation at 2022 UChicago Molecular Biosciences Retreat on Oct 14-15!
-2. A new co-authored paper has been accepted on Monday, Sep 26! Congrats to the first author, Chris! Hope to see it online soon!
+1. A new co-authored paper has been accepted on Monday, Sep 26! Congrats to the first author, Chris! Hope to see it online soon!
 
 # Contact
 Email: sihaohuang1024@gmail.com

@@ -7,7 +7,7 @@ permalink: /research/
 * [Research](https://sihaohuanguc.github.io/research)
 * [Experiences](https://sihaohuanguc.github.io/experiences)
 * [Publications](https://sihaohuanguc.github.io/publications)
-* [Blog](https://sihaohuanguc.github.io/blog)
+* [News](https://sihaohuanguc.github.io/news)
 
 # Research
 ## Interferon inducible pseudouridine modification in human mRNA by nanopore profiling
