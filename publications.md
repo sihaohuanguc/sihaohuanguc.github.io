@@ -10,6 +10,9 @@ permalink: /publications/
 * [News](https://sihaohuanguc.github.io/news)
 
 # Publications
+
+<br/>
+<br/>
 **Huang, S.**, Zhang, W., Katanski, C.D., Dersh, D., Dai, Q., Lolans, K., Yewdell, J., Eren, A.M. and Pan, T., 2021. Interferon inducible pseudouridine modification in human mRNA by quantitative nanopore profiling. *Genome biology, 22*(1), pp.1-14.&ensp;[Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02557-y)&emsp;[Related report](https://biologicalsciences.uchicago.edu/news/pseudouridine-sequencing-mrna-vaccines)&emsp;[Related abstract](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2022.36.S1.L7600)
 <br/>
 <br/>
