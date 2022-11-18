@@ -17,6 +17,7 @@ I like cycling along the shore of Lake Michigan. I like building [LEGO](https://
 
 # News
 1. A new co-authored paper was published online on Nov 1st! Congrats to the first author, Chris! So glad to work with all the colleagues on it!
+2. I will be the TA of the *Advanced Molecular Biology* course at UChicago in winter 2023 quarter!
 
 # Contact
 Email: sihaohuang1024@gmail.com
