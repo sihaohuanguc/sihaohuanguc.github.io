@@ -29,6 +29,8 @@ Mar 2022&emsp;Poster presentation at 2022 UChicago Biological Sciences Division 
 Oct 2021&emsp;Oral presentation at 2021 UChicago Molecular Biosciences Retreat
 
 # Teaching
+Jan - Mar 2023&emsp;TA of *Advanced Molecular Biology* course at UChicago
+<br/>
 Jan - Mar 2022&emsp;TA of *Introduction to Data Science in Biochemistry and Biophysics* (R programming) course at UChicago
 <br/>
 Sep 2017 - Jan 2018&emsp;TA of *Discussion of Biochemistry Literature* course at Peking University
