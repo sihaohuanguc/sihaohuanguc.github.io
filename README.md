@@ -27,6 +27,10 @@ LinkedIn: [Sihao Huang](https://www.linkedin.com/in/sihao-huang-1aa545160/)
 Twitter: @SihaoHuang1024
 <br/>
 Facebook: Sihao Huang
+<br/>
+Google Scholar: [Sihao Huang](https://scholar.google.com/citations?user=bACZfVkAAAAJ&hl=en)
+<br/>
+ResearchGate: [Sihao Huang](https://www.researchgate.net/profile/Sihao-Huang-5)
 
 # External links
 [Pan Lab website](https://openwetware.org/wiki/Pan_Lab)
