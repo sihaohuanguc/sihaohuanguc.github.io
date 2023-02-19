@@ -20,6 +20,10 @@ Sep 2015 - Jul 2018&emsp;B.S. in Mathematics and Applied Mathematics at Peking U
 Sep 2014 - Jul 2018&emsp;B.S. in Biological Science at Peking University
 
 # Presentations
+Feb 2023&emsp;Oral presentation at [2023 Gordon Research Conference for Protein Synthesis and Cellular Synergy](https://www.grc.org/translation-machinery-in-health-and-disease-conference/2023/) in Houston, Tx
+<br/>
+Feb 2023&emsp;Oral presentation at [2023 Gordon Research Seminar for Exploring Protein Synthesis from Molecule to Organism](https://www.grc.org/translation-machinery-in-health-and-disease-grs-conference/2023/) in Houston, Tx
+<br/>
 Oct 2022&emsp;Poster presentation at 2022 UChicago Molecular Biosciences Retreat
 <br/>
 Apr 2022&emsp;Poster presentation at [2022 ASBMB Annual Meeting](https://www.asbmb.org/meetings-events/2022-annual-meeting) in Philadelphia, PA
@@ -38,7 +42,5 @@ Sep 2017 - Jan 2018&emsp;TA of *Discussion of Biochemistry Literature* course at
 # Honors
 May 2018&emsp;Outstanding Graduate of Peking University
 
-# Grant
-To be revealed in the future.
 
 

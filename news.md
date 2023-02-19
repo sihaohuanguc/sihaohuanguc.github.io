@@ -9,6 +9,9 @@ permalink: /news/
 * [Publications](https://sihaohuanguc.github.io/publications)
 * [News](https://sihaohuanguc.github.io/news)
 
+## 2023
+### Feb 18 - 24
+I attended the GRC and GRS conferences for Translation studies in Houston. This was the first time that I did **off-line** oral presentations (due to the pandemic) in a nation-wide conference and it was challenging, but I made it!
 
 ## 2022
 ### Dec 07
