@@ -17,7 +17,7 @@ I like cycling along the shore of Lake Michigan. I like building [LEGO](https://
 
 # News
 1. A new co-authored paper was published online on Nov 1st 2022! Congrats to the first author, Chris! So glad to work with all the colleagues on it!
-2. I will do an oral presentation on pseudouridine and translation in the 2023 GRC conference for translation on Feb 23rd!
+2. I did an oral presentation on pseudouridine and translation in the 2023 GRC conference for translation on Feb 23rd!
 
 # Contact
 Email: sihaohuang1024@gmail.com
