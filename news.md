@@ -11,7 +11,7 @@ permalink: /news/
 
 ## 2023
 ### Feb 18 - 24
-I attended the GRC and GRS conferences for Translation studies in Houston. This was the first time that I did **off-line** oral presentations (due to the pandemic) in a nation-wide conference and it was challenging, but I made it!
+I attended the GRC and GRS conferences for Translation studies in Houston. This was the first time that I did **off-line** oral presentations (due to the pandemic) in a nation-wide conference and it was challenging, but I made it! I met a lot of new friends and learnt a lot about the methodology and strategies for research on translation. This is directly useful in my following project.
 
 ## 2022
 ### Dec 07
