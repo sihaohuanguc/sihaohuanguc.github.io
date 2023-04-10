@@ -16,8 +16,7 @@ I got my B.S. degrees in Biology and Mathematics at Peking University in Beijing
 I like cycling along the shore of Lake Michigan. I like building [LEGO](https://www.lego.com/en-us) models. I like cooking. I like traveling. I've visited 12/50 states in US and hope to visit more in the future.
 
 # News
-1. A new co-authored paper was published online on Nov 1st 2022! Congrats to the first author, Chris! So glad to work with all the colleagues on it!
-2. I did an oral presentation on pseudouridine and translation in the 2023 GRC conference for translation on Feb 23rd!
+1. I applied for the [UChicago Computational Biology Trek to Bay Area](http://www.mychoice.uchicago.edu/about-the-program/experience/treks/computationalbiology23/) and get one position! Looking forward to visiting the biotech companies in Bay Area!
 
 # Contact
 Email: sihaohuang1024@gmail.com
