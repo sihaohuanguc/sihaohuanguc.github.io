@@ -16,7 +16,8 @@ I got my B.S. degrees in Biology and Mathematics at Peking University in Beijing
 I like cycling along the shore of Lake Michigan. I like building [LEGO](https://www.lego.com/en-us) models. I like cooking. I like traveling. I've visited 12/50 states in US and hope to visit more in the future.
 
 # News
-1. I applied for the [UChicago Computational Biology Trek to Bay Area](http://www.mychoice.uchicago.edu/about-the-program/experience/treks/computationalbiology23/) and get one position! Looking forward to visiting the biotech companies in Bay Area!
+1. We just submitted a new manuscript! Hope we'll not get the rejection letter too quickly!
+2. I applied for the [UChicago Computational Biology Trek to Bay Area](http://www.mychoice.uchicago.edu/about-the-program/experience/treks/computationalbiology23/) and get one position! Looking forward to visiting the biotech companies in Bay Area!
 
 # Contact
 Email: sihaohuang1024@gmail.com
@@ -33,6 +34,8 @@ Facebook: Sihao Huang
 
 # External links
 [Pan Lab website](https://openwetware.org/wiki/Pan_Lab)
+<br/>
+[Pan Lab new website](https://sihaohuanguc.github.io/Pan_Lab_Website/)
 <br/>
 [Program student page](https://bcmb.uchicago.edu/program/students?page=1)
 <br/>
