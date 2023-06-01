@@ -10,6 +10,9 @@ permalink: /news/
 * [News](https://sihaohuanguc.github.io/news)
 
 ## 2023
+### May 21 - 24
+I participated in the [UChicago Computational Biology Trek to Bay Area](http://www.mychoice.uchicago.edu/about-the-program/experience/treks/computationalbiology23/) and visited many companies including Genentech, Abbvie, Epic Bio, 23andme, Maze, Interline, Grail and Baker Bioenginuity Hub. I learnt a lot about companies of all sizes from established to startup ones. It was an amazing experience!
+
 ### Feb 18 - 24
 I attended the GRC and GRS conferences for Translation studies in Houston. This was the first time that I did **off-line** oral presentations (due to the pandemic) in a nation-wide conference and it was challenging, but I made it! I met a lot of new friends and learnt a lot about the methodology and strategies for research on translation. This is directly useful in my following project.
 
