@@ -43,6 +43,8 @@ Facebook: Sihao Huang
 <br/>
 [Program student page](https://bcmb.uchicago.edu/program/students?page=1)
 <br/>
+[Program Spotlights](https://bcmb.uchicago.edu/spotlights/sihao-huang-spotlight)
+<br/>
 [Meren (collaborator and committee member) Lab website](https://merenlab.org)
 <br/>
 [Working buddy for programmer](https://www.google.com)
