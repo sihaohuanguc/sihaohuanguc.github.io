@@ -20,7 +20,7 @@ I like cycling along the shore of Lake Michigan. I like building [LEGO](https://
 Welcome to my homepage! Feel free to navigate through all the pages. I have tried to ensure that the content is presented in a simple and easy-to-read manner. 
 
 # News
-1. I'm starting a new internship with [Daiichi Sankyo](https://www.daiichisankyo.com) in June!
+1. I'm doing a summer internship at [Daiichi Sankyo](https://www.daiichisankyo.com)!
 2. We just submitted a new manuscript! Hope we'll not get the rejection letter too quickly!
 
 # Contact
@@ -31,6 +31,8 @@ LinkedIn: [Sihao Huang](https://www.linkedin.com/in/sihao-huang-1aa545160/)
 Google Scholar: [Sihao Huang](https://scholar.google.com/citations?user=bACZfVkAAAAJ&hl=en)
 <br/>
 ResearchGate: [Sihao Huang](https://www.researchgate.net/profile/Sihao-Huang-5)
+<br/>
+Academia: [Sihao Huang](https://chicago.academia.edu/SihaoHuang)
 <br/>
 Twitter: @SihaoHuang1024
 <br/>

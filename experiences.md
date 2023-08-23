@@ -10,7 +10,7 @@ permalink: /experiences/
 * [News](https://sihaohuanguc.github.io/news)
 
 # Industry Employment
-Jun - Present 2023&emsp;Biostatistics & Data Management Intern at [Daiichi Sankyo](https://www.daiichisankyo.com)
+Jun - Sep 2023&emsp;Biostatistics & Data Management Intern at [Daiichi Sankyo](https://www.daiichisankyo.com)
 <br/>
 Jun - Aug 2022&emsp;Clinical Bioinformatics Internship at [Guardant Health](https://guardanthealth.com)
 

@@ -13,15 +13,15 @@ permalink: /publications/
 (\* Equal contribution)
 <br/>
 <br/>
-Katanski, C.D., Alshammary, H., Watkins, C.P., **Huang, S.**, Gonzales-Reiche, A., Sordillo, E.M., van Bakel, H., Lolans, K., Simon, V., Pan, T. and Mount Sinai PSP study group, 2022. tRNA abundance, modification and fragmentation in nasopharyngeal swabs as biomarkers for COVID-19 severity. *Frontiers in Cell and Developmental Biology, 10*.&ensp;[Link](https://www.frontiersin.org/articles/10.3389/fcell.2022.999351/full)
+Katanski, C.D., Alshammary, H., Watkins, C.P., **Huang, S.**, Gonzales-Reiche, A., Sordillo, E.M., van Bakel, H., Lolans, K., Simon, V., Pan, T. and Mount Sinai PSP study group, 2022. tRNA abundance, modification and fragmentation in nasopharyngeal swabs as biomarkers for COVID-19 severity. *Frontiers in Cell and Developmental Biology, 10*.&ensp;[Link](https://www.frontiersin.org/articles/10.3389/fcell.2022.999351/full)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/36393870/)
 <br/>
 <br/>
-**Huang, S.**, Zhang, W., Katanski, C.D., Dersh, D., Dai, Q., Lolans, K., Yewdell, J., Eren, A.M. and Pan, T., 2021. Interferon inducible pseudouridine modification in human mRNA by quantitative nanopore profiling. *Genome biology, 22*(1), pp.1-14.&ensp;[Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02557-y)&emsp;[Related report](https://biologicalsciences.uchicago.edu/news/pseudouridine-sequencing-mrna-vaccines)&emsp;[Related abstract](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2022.36.S1.L7600)
+**Huang, S.**, Zhang, W., Katanski, C.D., Dersh, D., Dai, Q., Lolans, K., Yewdell, J., Eren, A.M. and Pan, T., 2021. Interferon inducible pseudouridine modification in human mRNA by quantitative nanopore profiling. *Genome biology, 22*(1), pp.1-14.&ensp;[Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02557-y)&emsp;[Related report](https://biologicalsciences.uchicago.edu/news/pseudouridine-sequencing-mrna-vaccines)&emsp;[Related abstract](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2022.36.S1.L7600)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/34872593/)
 <br/>
 <br/>
-Shu, X.\*, Liu, M.\*, Lu, Z.\*, Zhu, C., Meng, H., **Huang, S.**, Zhang, X. and Yi, C., 2018. Genome-wide mapping reveals that deoxyuridine is enriched in the human centromeric DNA. *Nature Chemical Biology, 14*(7), pp.680-687.&ensp;[Link](https://www.nature.com/articles/s41589-018-0065-9)
+Shu, X.\*, Liu, M.\*, Lu, Z.\*, Zhu, C., Meng, H., **Huang, S.**, Zhang, X. and Yi, C., 2018. Genome-wide mapping reveals that deoxyuridine is enriched in the human centromeric DNA. *Nature Chemical Biology, 14*(7), pp.680-687.&ensp;[Link](https://www.nature.com/articles/s41589-018-0065-9)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/29785056/)
 <br/>
 <br/>
 
 ## Preprint
-Wang, Y., Zhang, R., **Huang, S.**, Valverde, P.T.T., Lobb-Rabe, M., Ashley, J., Venkatasubramanian, L. and Carrillo, R.A., 2023. Glial Draper signaling triggers cross-neuron plasticity in bystander neurons after neuronal cell death. bioRxiv, pp.2023-04.&ensp;[Link](https://www.biorxiv.org/content/10.1101/2023.04.09.536190v1.abstract)
+Wang, Y., Zhang, R., **Huang, S.**, Valverde, P.T.T., Lobb-Rabe, M., Ashley, J., Venkatasubramanian, L. and Carrillo, R.A., 2023. Glial Draper signaling triggers cross-neuron plasticity in bystander neurons after neuronal cell death. bioRxiv, pp.2023-04.&ensp;[Link](https://www.biorxiv.org/content/10.1101/2023.04.09.536190v1.abstract)&emsp;[Link](https://www.nature.com/articles/s41467-023-40142-y)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/37488133/)
