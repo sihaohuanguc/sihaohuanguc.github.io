@@ -20,8 +20,7 @@ I like cycling along the shore of Lake Michigan. I like building [LEGO](https://
 Welcome to my homepage! Feel free to navigate through all the pages. I have tried to ensure that the content is presented in a simple and easy-to-read manner. 
 
 # News
-1. I'm doing a summer internship at [Daiichi Sankyo](https://www.daiichisankyo.com)!
-2. We just submitted a new manuscript! Hope we'll not get the rejection letter too quickly!
+1. We just submitted a new manuscript! Hope we'll not get the rejection letter too quickly!
 
 # Contact
 Email: sihaohuang1024@gmail.com
