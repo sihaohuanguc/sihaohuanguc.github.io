@@ -31,6 +31,8 @@ Google Scholar: [Sihao Huang](https://scholar.google.com/citations?user=bACZfVkA
 <br/>
 ResearchGate: [Sihao Huang](https://www.researchgate.net/profile/Sihao-Huang-5)
 <br/>
+ORCID: [Sihao Huang](https://orcid.org/0000-0001-8575-8555)
+<br/>
 Academia: [Sihao Huang](https://chicago.academia.edu/SihaoHuang)
 <br/>
 Twitter: @SihaoHuang1024
