@@ -22,6 +22,8 @@ Sep 2015 - Jul 2018&emsp;B.S. in Mathematics and Applied Mathematics at Peking U
 Sep 2014 - Jul 2018&emsp;B.S. in Biological Science at Peking University
 
 # Presentations
+Oct 2023&emsp;Poster presentation at 2023 UChicago Molecular Biosciences Retreat
+<br/>
 Mar 2023&emsp;Poster presentation at 2023 UChicago Biological Sciences Division Grad Admission Poster Session
 <br/>
 Feb 2023&emsp;Oral presentation at [2023 Gordon Research Conference for Protein Synthesis and Cellular Synergy](https://www.grc.org/translation-machinery-in-health-and-disease-conference/2023/) in Houston, Tx
