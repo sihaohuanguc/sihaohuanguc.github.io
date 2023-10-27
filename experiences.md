@@ -12,10 +12,10 @@ permalink: /experiences/
 # Industry Employment
 Jun - Sep 2023&emsp;Biostatistics & Data Management Intern at [Daiichi Sankyo](https://www.daiichisankyo.com)
 <br/>
-Jun - Aug 2022&emsp;Clinical Bioinformatics Internship at [Guardant Health](https://guardanthealth.com)
+Jun - Aug 2022&emsp;Clinical Bioinformatics Scientist Intern at [Guardant Health](https://guardanthealth.com)
 
 # Education
-Sep 2018 - Present&emsp;Ph.D. candidate at University of Chicago
+Sep 2018 - May 2024(expected)&emsp;Ph.D. candidate at University of Chicago
 <br/>
 Sep 2015 - Jul 2018&emsp;B.S. in Mathematics and Applied Mathematics at Peking University
 <br/>
