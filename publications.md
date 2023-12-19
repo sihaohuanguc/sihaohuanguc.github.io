@@ -13,6 +13,12 @@ permalink: /publications/
 (\* Equal contribution)
 <br/>
 <br/>
+Hou, Y., Zhang, W., McGilvray, P.T., Sobczyk, M., Wang, T., Weng, S.H.S., Huff, A., **Huang, S.**, Pena, N., Katanski, C. and Pan, T., 2023. Engineered mischarged transfer RNAs for correcting pathogenic missense mutations. *Molecular Therapy*.&ensp;[Link](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(23)00678-0)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/38104240/)
+<br/>
+<br/>
+Wang, Y., Zhang, R., **Huang, S.**, Valverde, P.T.T., Lobb-Rabe, M., Ashley, J., Venkatasubramanian, L. and Carrillo, R.A., 2023. Glial Draper signaling triggers cross-neuron plasticity in bystander neurons after neuronal cell death in *Drosophila*. *Nature Communications 14*, 4452.&ensp;[Link](https://www.nature.com/articles/s41467-023-40142-y)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/37488133/)
+<br/>
+<br/>
 Katanski, C.D., Alshammary, H., Watkins, C.P., **Huang, S.**, Gonzales-Reiche, A., Sordillo, E.M., van Bakel, H., Lolans, K., Simon, V., Pan, T. and Mount Sinai PSP study group, 2022. tRNA abundance, modification and fragmentation in nasopharyngeal swabs as biomarkers for COVID-19 severity. *Frontiers in Cell and Developmental Biology, 10*.&ensp;[Link](https://www.frontiersin.org/articles/10.3389/fcell.2022.999351/full)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/36393870/)
 <br/>
 <br/>
@@ -24,4 +30,4 @@ Shu, X.\*, Liu, M.\*, Lu, Z.\*, Zhu, C., Meng, H., **Huang, S.**, Zhang, X. and 
 <br/>
 
 ## Preprint
-Wang, Y., Zhang, R., **Huang, S.**, Valverde, P.T.T., Lobb-Rabe, M., Ashley, J., Venkatasubramanian, L. and Carrillo, R.A., 2023. Glial Draper signaling triggers cross-neuron plasticity in bystander neurons after neuronal cell death. bioRxiv, pp.2023-04.&ensp;[Link](https://www.biorxiv.org/content/10.1101/2023.04.09.536190v1.abstract)&emsp;[Link](https://www.nature.com/articles/s41467-023-40142-y)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/37488133/)
+Wang, Y., Zhang, R., **Huang, S.**, Valverde, P.T.T., Lobb-Rabe, M., Ashley, J., Venkatasubramanian, L. and Carrillo, R.A., 2023. Glial Draper signaling triggers cross-neuron plasticity in bystander neurons after neuronal cell death. *bioRxiv*, pp.2023-04.&ensp;[Link](https://www.biorxiv.org/content/10.1101/2023.04.09.536190v1.abstract)
