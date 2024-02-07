@@ -13,6 +13,9 @@ permalink: /publications/
 (\* Equal contribution)
 <br/>
 <br/>
+**Huang, S.\***, Wylder, A.C.\* & Pan, T, 2024. Simultaneous nanopore profiling of mRNA m6A and pseudouridine reveals translation coordination. *Nature Biotechnology*.&ensp;[Link](https://www.nature.com/articles/s41587-024-02135-0)
+<br/>
+<br/>
 Hou, Y., Zhang, W., McGilvray, P.T., Sobczyk, M., Wang, T., Weng, S.H.S., Huff, A., **Huang, S.**, Pena, N., Katanski, C. and Pan, T., 2023. Engineered mischarged transfer RNAs for correcting pathogenic missense mutations. *Molecular Therapy*.&ensp;[Link](https://www.sciencedirect.com/science/article/pii/S1525001623006780?dgcid=coauthor#appsec2)&emsp;[Link](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(23)00678-0)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/38104240/)
 <br/>
 <br/>
