@@ -16,7 +16,7 @@ permalink: /publications/
 **Huang, S.\***, Wylder, A.C.\* and Pan, T., 2024. Simultaneous nanopore profiling of mRNA m6A and pseudouridine reveals translation coordination. *Nature Biotechnology*, pp.1-5.&ensp;[Link](https://www.nature.com/articles/s41587-024-02135-0)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/38321115/)
 <br/>
 <br/>
-Hou, Y., Zhang, W., McGilvray, P.T., Sobczyk, M., Wang, T., Weng, S.H.S., Huff, A., **Huang, S.**, Pena, N., Katanski, C. and Pan, T., 2023. Engineered mischarged transfer RNAs for correcting pathogenic missense mutations. *Molecular Therapy*.&ensp;[Link](https://www.sciencedirect.com/science/article/pii/S1525001623006780?dgcid=coauthor#appsec2)&emsp;[Link](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(23)00678-0)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/38104240/)
+Hou, Y., Zhang, W., McGilvray, P.T., Sobczyk, M., Wang, T., Weng, S.H.S., Huff, A., **Huang, S.**, Pena, N., Katanski, C. and Pan, T., 2023. Engineered mischarged transfer RNAs for correcting pathogenic missense mutations. *Molecular Therapy*.&ensp;[Link](https://www.sciencedirect.com/science/article/pii/S1525001623006780?dgcid=coauthor#appsec2)&emsp;[Link](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(23)00678-0)&emsp;[Related report](https://biologicalsciences.uchicago.edu/news/missense-mutations-trna-treatment)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/38104240/)
 <br/>
 <br/>
 Wang, Y., Zhang, R., **Huang, S.**, Valverde, P.T.T., Lobb-Rabe, M., Ashley, J., Venkatasubramanian, L. and Carrillo, R.A., 2023. Glial Draper signaling triggers cross-neuron plasticity in bystander neurons after neuronal cell death in *Drosophila*. *Nature Communications 14*, 4452.&ensp;[Link](https://www.nature.com/articles/s41467-023-40142-y)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/37488133/)
@@ -32,5 +32,5 @@ Shu, X.\*, Liu, M.\*, Lu, Z.\*, Zhu, C., Meng, H., **Huang, S.**, Zhang, X. and 
 <br/>
 <br/>
 
-## Preprint
+## Preprints
 Wang, Y., Zhang, R., **Huang, S.**, Valverde, P.T.T., Lobb-Rabe, M., Ashley, J., Venkatasubramanian, L. and Carrillo, R.A., 2023. Glial Draper signaling triggers cross-neuron plasticity in bystander neurons after neuronal cell death. *bioRxiv*, pp.2023-04.&ensp;[Link](https://www.biorxiv.org/content/10.1101/2023.04.09.536190v1.abstract)
