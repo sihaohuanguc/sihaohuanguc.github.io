@@ -15,7 +15,7 @@ Jun - Sep 2023&emsp;Biostatistics & Data Management Intern at [Daiichi Sankyo](h
 Jun - Aug 2022&emsp;Clinical Bioinformatics Scientist Intern at [Guardant Health](https://guardanthealth.com)
 
 # Education
-Sep 2018 - May 2024&emsp;Ph.D. at University of Chicago
+Sep 2018 - Jun 2024&emsp;Ph.D. at University of Chicago
 <br/>
 Sep 2015 - Jul 2018&emsp;B.S. in Mathematics and Applied Mathematics at Peking University
 <br/>

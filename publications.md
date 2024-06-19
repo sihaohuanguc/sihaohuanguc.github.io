@@ -32,5 +32,8 @@ Shu, X.\*, Liu, M.\*, Lu, Z.\*, Zhu, C., Meng, H., **Huang, S.**, Zhang, X. and 
 <br/>
 <br/>
 
+## Dissertations
+**Huang, S.**, 2024. Investigation of Messenger RNA Modifications in Nanopore Sequencing Data by Machine Learning Methods.&ensp;[Link](https://knowledge.uchicago.edu/record/12365?v=pdf)
+
 ## Preprints
 Wang, Y., Zhang, R., **Huang, S.**, Valverde, P.T.T., Lobb-Rabe, M., Ashley, J., Venkatasubramanian, L. and Carrillo, R.A., 2023. Glial Draper signaling triggers cross-neuron plasticity in bystander neurons after neuronal cell death. *bioRxiv*, pp.2023-04.&ensp;[Link](https://www.biorxiv.org/content/10.1101/2023.04.09.536190v1.abstract)
