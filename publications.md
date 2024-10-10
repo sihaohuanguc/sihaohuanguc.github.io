@@ -13,6 +13,9 @@ permalink: /publications/
 (\* Equal contribution)
 <br/>
 <br/>
+Xu, Z., Zheng, X., Fan, J., Jiao, Y., **Huang, S.**, Xie, Y., Xu, S., Lu, Y., Liu, A., Liu, R., Yang, Y., Luo, G., Pan, T. and Wang, X., 2024. Microbiome-induced reprogramming in post-transcriptional landscape using nanopore direct RNA sequencing. *Cell Reports, 43*(10).&ensp;[Link](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01149-5)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/39365698/)
+<br/>
+<br/>
 **Huang, S.\***, Wylder, A.C.\* and Pan, T., 2024. Simultaneous nanopore profiling of mRNA m6A and pseudouridine reveals translation coordination. *Nature Biotechnology*, pp.1-5.&ensp;[Link](https://www.nature.com/articles/s41587-024-02135-0)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/38321115/)
 <br/>
 <br/>
