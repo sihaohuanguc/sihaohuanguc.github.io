@@ -9,7 +9,16 @@ permalink: /experiences/
 * [Publications](https://sihaohuanguc.github.io/publications)
 * [News](https://sihaohuanguc.github.io/news)
 
+# Academia Employment
+Mar 2025 - Present&emsp;Postdoctoral Researcher at [New York Genome Center](https://www.nygenome.org)
+<br/>
+Jan 2019 - Mar 2025&emsp;Graduate Researcher and Postdoctoral Researcher at [University of Chicago](https://www.uchicago.edu/en)
+<br/>
+Jul 2015 - Jun 2018&emsp;Undergraduate Researcher at [Peking University](https://english.pku.edu.cn)
+
 # Industry Employment
+Jul 2024 - Feb 2025&emsp;Independent Bioinformatics Researcher (part-time) at [MesoRNA LLC](https://www.mesorna.com)
+<br/>
 Jun - Sep 2023&emsp;Biostatistics & Data Management Intern at [Daiichi Sankyo](https://www.daiichisankyo.com)
 <br/>
 Jun - Aug 2022&emsp;Clinical Bioinformatics Scientist Intern at [Guardant Health](https://guardanthealth.com)
