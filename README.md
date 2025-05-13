@@ -17,7 +17,7 @@ I liked to cycle along the shore of Lake Michigan when I was in Chicago. I like 
 Welcome to my homepage! Feel free to navigate through all the pages. I have tried to ensure that the content is presented in a simple and easy-to-read manner. 
 
 # News
-1. I just started my new job as a Postdoc at NYGC in March 2025!
+1. I just got the Best Thesis Award in UChicago BMB 2024-2025 academic year!
 
 # Contact
 Email: sihaohuang1024@gmail.com

@@ -57,6 +57,8 @@ Jan - Mar 2022&emsp;TA of *Introduction to Data Science in Biochemistry and Biop
 Sep 2017 - Jan 2018&emsp;TA of *Discussion of Biochemistry Literature* course at Peking University
 
 # Honors
+May 2025&emsp;Best Thesis Award (2024-2025), Department of Biochemistry and Molecular Biology, University of Chicago
+<br/>
 May 2018&emsp;Outstanding Graduate of Peking University
 
 
