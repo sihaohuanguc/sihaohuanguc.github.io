@@ -13,6 +13,9 @@ permalink: /publications/
 (\* Equal contribution)
 <br/>
 <br/>
+Peña, N.\*, Hou, Y.\*, Watkins, C.P.\*, **Huang, S.**, Zhang, W., Katanski, C.D. and Pan, T., 2025. In vivo structure profiling reveals human cytosolic and mitochondrial tRNA structurome and interactome in response to stress. *Nature Communications, 16*(1), pp.1-16.&ensp;[Link](https://www.nature.com/articles/s41467-025-59435-5)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/40447571/)
+<br/>
+<br/>
 Xu, Z.\*, Zheng, X.\*, Fan, J.\*, Jiao, Y., **Huang, S.**, Xie, Y., Xu, S., Lu, Y., Liu, A., Liu, R., Yang, Y., Luo, G., Pan, T. and Wang, X., 2024. Microbiome-induced reprogramming in post-transcriptional landscape using nanopore direct RNA sequencing. *Cell Reports, 43*(10).&ensp;[Link](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01149-5)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/39365698/)
 <br/>
 <br/>
