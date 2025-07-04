@@ -13,6 +13,9 @@ permalink: /publications/
 (\* Equal contribution)
 <br/>
 <br/>
+Guo, W., **Huang, S.**, Shao, X., Wu, Y., Ma, Y., Lu, S., Ren, H., Zhou, X., Yang, Z., Lyu, M., Liu, Y., Gordon, V., Brodbelt, J. S., Pan, T. and Lu, Y., 2025. Tandem ssDNA in neutrophil extracellular traps binds thrombin and regulates immunothrombosis. *Proceedings of the National Academy of Sciences of the United States of America, 122*(27), e2418191122. &ensp;[Link](https://www.pnas.org/doi/10.1073/pnas.2418191122)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/40608679/)
+<br/>
+<br/>
 Peña, N.\*, Hou, Y.\*, Watkins, C.P.\*, **Huang, S.**, Zhang, W., Katanski, C.D. and Pan, T., 2025. In vivo structure profiling reveals human cytosolic and mitochondrial tRNA structurome and interactome in response to stress. *Nature Communications, 16*(1), pp.1-16.&ensp;[Link](https://www.nature.com/articles/s41467-025-59435-5)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/40447571/)
 <br/>
 <br/>
