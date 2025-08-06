@@ -10,6 +10,9 @@ permalink: /research/
 * [News](https://sihaohuanguc.github.io/news)
 
 # Research
+## Tandem ssDNA in neutrophil extracellular traps binds thrombin and regulates immunothrombosis
+In this project, we explored how DNA within neutrophil extracellular traps (NETs) contributes to thrombosis by high throughput sequencing. We discovered that single-stranded (ATTCC)n repeats in NETs selectively bind thrombin and enhance coagulation. Based on the newly identified binding motif from DNA-seq data, we developed antisense locked nucleic acids to disrupt this interaction. These findings reveal a novel DNA-mediated mechanism of immunothrombosis and suggest new therapeutic strategies for clotting disorders.
+
 ## Simultaneous nanopore profiling of mRNA m6A and pseudouridine reveals translation coordination
 In this project, we developed a computation pipeline NanoSPA for identifying m6A and pseudouridine modifications transcriptome wide in the same nanopore direct RNA sequencing sample simultaneously. We developed a new neural network model for m6A prediction and fuzed the pipeline with the published pseudouridine prediction pipeline NanoPsu. NanoSPA was applied to human cells and negative correlation of pseudouridine and m6A was discovered. Both pseudouridine and m6A were discovered to promote translation and the effect of pseudouridine is stronger than that of m6A. This is a pioneering study of interplay of multiple RNA modifications.
 
