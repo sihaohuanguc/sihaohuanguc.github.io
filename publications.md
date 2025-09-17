@@ -13,6 +13,9 @@ permalink: /publications/
 (\* Equal contribution)
 <br/>
 <br/>
+Zhang, W.\*, Lahry, K.\*, Cipurko, D.\*, **Huang, S.**, Zbihley, O., Sevilleja, A. M., Rudzka, D., Frietze, L. R., Assari, M., Katanski, C. D., Singh, M., Attina, A., Guillorit, H., Watkins, C. P., Gourlain, D., Varlet, D., Falconi, J., Djiane, A., Hirtz, C., Chen, H., Macari, F., Johnson, K., Chevrier, N., David, A. and Pan, T., 2025. Two microbiome metabolites compete for tRNA modification to impact mammalian cell proliferation and translation quality control. *Nature cell biology*, 10.1038/s41556-025-01750-6.&ensp;[Link](https://www.nature.com/articles/s41556-025-01750-6)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/40957911/)
+<br/>
+<br/>
 Morgan, R.\*, Tork, M.A.B.\*, Lin, Z., Wild, C., Frietze, L.R., **Huang, S.**, Roh, M., Olivas, A., Steele, C.W., Pan, T. and Shogan, B.D., 2025. High-Fat Diet Driven Post-Operative Colon Cancer Recurrence is Dependent upon Genetic Susceptibility to Deoxycholic Acid. *Cancer Letters*, p.217943.&ensp;[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304383525005129)&emsp;[PubMed](https://pubmed.ncbi.nlm.nih.gov/40706745/)
 <br/>
 <br/>
